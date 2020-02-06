@@ -10,7 +10,7 @@ public class swapvariables {
         a=b;
         b=temp;
         System.out.println("a="+a);
-        System.out.println("B="+b);
+        System.out.println("ab="+b);
 
 
     }
